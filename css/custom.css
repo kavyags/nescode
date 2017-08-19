@@ -1,0 +1,54 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+/* Navbar brand */
+.navbar-brand {
+    float: left;
+    height: 50px;
+    padding: 15px 15px;
+    font-size: 18px;
+    line-height: 20px;
+    font-weight: 900;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #fff;
+}
+
+.navbar-inverse{
+  background-color: #710C04;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: #fff;
+    background-color: #861c14;
+}
+
+/* Intro line */
+
+h3{
+  text-transform: uppercase;
+  font-weight: 800;
+}
+
+/* padding */
+
+.padding{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+
+/* custom well */
+
+.well-lg {
+    padding: 24px;
+    border-radius: 6px;
+    background-color: #FF3800;
+    color: #FFF;
+    border-radius: 0px;
+}
