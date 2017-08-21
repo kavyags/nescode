@@ -52,3 +52,33 @@ h3{
     color: #FFF;
     border-radius: 0px;
 }
+
+/* Services page */
+
+.servicewell{
+  background-color: #fff;
+  color: #000;
+}
+
+.servicewell:hover{
+  background-color: #FF3800;
+  color: #fff;
+}
+
+servicepadding{
+  padding-left: 10px;
+}
+
+/* contact page */
+
+
+.red{
+    color:red;
+    }
+.form-area
+{
+    background-color: #FAFAFA;
+  padding: 10px 40px 60px;
+  margin: 10px 0px 60px;
+  border: 1px solid GREY;
+  }
